@@ -1,0 +1,2 @@
+pseudo = "Radomampianina"
+puts pseudo
